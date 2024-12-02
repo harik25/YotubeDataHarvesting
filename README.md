@@ -38,3 +38,7 @@ This project focuses on harvesting data from YouTube using the YouTube API. The 
    - Create an interactive Streamlit dashboard.
    - Display metrics such as most-viewed videos, channel performance, and trends.
 
+## Future Enhancements
+- Add advanced filtering and search capabilities in the Streamlit app.
+- Integrate additional APIs for enriched data insights.
+- Implement user authentication for secure app access.
